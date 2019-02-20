@@ -27,6 +27,8 @@ public class TestJedis {
 		System.out.println(pong);
 		System.out.println(pong);
 		System.out.println(jedis);
+		System.out.println(pong);
+
 		
 	}
 	
